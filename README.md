@@ -14,7 +14,7 @@ Term: Fall 2021
 	+ Wang, Yalin
 
 
-+ Project summary: In this project, we created predictive models for image classification using noisy labels. Firstly, We consider a baseline model directly on the noisy dataset without any label corrections. RGB histogram features are extracted to fit a logistic regression model. Moreover, we built the two predictive models(model1&model2). For model 1 we uesd a more sophisticated model (CNN model) than the baseline, while still treats the noisy labels as clean ones. Fore moedel 2, we tried confident learning to correct the labels. Finally, both models achieve satisfying prediction accuracy(model1: 0.3 ; model2: 0.7).
++ Project summary: In this project, we created predictive models for image classification using noisy labels. Firstly, We consider a baseline model directly on the noisy dataset without any label corrections. RGB histogram features are extracted to fit a logistic regression model. Moreover, we built the two predictive models(model1&model2). For model 1 we uesd a more sophisticated model (CNN model) than the baseline, while still treats the noisy labels as clean ones. For moedel 2, we tried confident learning to correct the labels. Finally, both models achieve satisfying prediction accuracy(model1: 0.3 ; model2: 0.7).
 	
 	
 **Contribution statement**:
